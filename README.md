@@ -2,6 +2,8 @@
 
 In the project directory, you can run:
 
+First clone the repo.
+
 ### `npm install`
 
 then,
