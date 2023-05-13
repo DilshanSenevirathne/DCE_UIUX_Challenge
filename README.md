@@ -1,4 +1,4 @@
-## Available Scripts
+## UI/UX Champion - Practical Assignment
 
 In the project directory, you can run:
 
